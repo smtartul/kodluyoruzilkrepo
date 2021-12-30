@@ -3,3 +3,5 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo.İçerisinde bir adet READM
 
 
 # Installation
+Öncelikle projeyi clonelayın. 
+https://github.com/smtartul/kodluyoruzilkrepo
