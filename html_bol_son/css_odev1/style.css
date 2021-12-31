@@ -1,0 +1,40 @@
+.baslik1{
+    color: red;
+    font-family: sans-serif;
+    text-align: center;
+}
+.container{
+   justify-content: center;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+   
+}
+.nav2{
+    display: grid;
+    justify-content: center;
+    
+   
+}
+.navlist{
+    list-style: none;
+}
+.navlistitem{
+    display: inline;
+    margin-left: 1em;
+}
+.navlistitem2{
+    
+    margin-bottom: 1em;
+    
+}
+.baslik2{
+    color: blue;
+}
+.baslik3{
+    color: burlywood;
+}
+.ullist1{
+    list-style-position: inside;
+}
