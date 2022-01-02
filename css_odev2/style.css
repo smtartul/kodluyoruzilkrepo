@@ -1,0 +1,36 @@
+.container{
+    display: grid;
+    justify-content: center;
+    
+}
+.container2{
+    display: flex;
+    justify-content: center;
+}
+
+.ml-1{
+    margin-left: 1em;
+}
+.mt-2{
+    margin-top: 2em;
+}
+
+.my-auto{
+    margin: 0 auto 0 auto ;
+}
+.box{
+    height: 80px;
+    background: rgb(15, 219, 192);
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+.box1{   
+    width: 34%;   
+}
+.box2{
+    width: 19%;
+}
+.box3{ 
+    width: 39%;
+}
