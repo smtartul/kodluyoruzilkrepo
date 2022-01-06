@@ -1,0 +1,14 @@
+{
+  "name": "react-odev-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "type": "module",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "",
+  "license": "ISC"
+}
